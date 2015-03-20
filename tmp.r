@@ -1,0 +1,10 @@
+user.name=pafdr36
+user.email=pafdr36@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
+remote.origin.url=https://github.com/pafdr36/DS_tools.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
